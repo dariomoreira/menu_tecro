@@ -1,0 +1,23 @@
+{   "fabricacion": "Laura",
+    "comida": [
+        {   "principal": "Patamuslo al horno",
+            "guarnicion": [ 
+                "arroz",
+                "puré de calabazas",
+                "puré de papas",
+                "fritas"
+            ],
+            "cantidad" : 0
+        },
+        {   "principal": "Omelette de jamón y queso",
+            "guarnicion": [ 
+                "papas baston",
+                "ensalada",
+                "puré de calabazas",
+                "puré de papas",
+                "papas a la crema"
+            ],
+            "cantidad" : 0
+        }
+        ]
+} 

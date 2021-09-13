@@ -1,0 +1,114 @@
+Medano
+:uno: Milanesa de pollo con guarnición (papas bastón, ensalada, puré de calabazas, puré de papas, papas a la crema)
+:dos: Hamburguesa de pollo con guarnición (papas bastón, ensalada, puré de calabazas, puré de papas, papas a la crema)
+:tres: Suprema con guarnición (papas bastón, ensalada, puré de calabazas, puré de papas, papas a la crema)
+:cuatro: Albóndigas con guarnición (papas bastón, ensalada, puré de calabazas, puré de papas, papas a la crema)
+:cinco: Omelette de jamón y queso con guarnición (papas bastón, ensalada, puré de calabazas, puré de papas, papas a la crema)
+:seis: Revuelto Gramajo
+:siete: Ensalada completa
+:ocho: Penne Rigatti
+:nueve: Carne al horno con guarnición (papas bastón, ensalada, puré de calabazas, puré de papas, papas a la crema)
+
+Laura
+:uno: Patamuslo al horno con guarnición (arroz, puré de papas o calabazas, fritas, rusa, ensalada)
+
+Capitano
+:uno: Tradicional – Tarta de merluza con ensalada mixta.
+:dos: Liviano – Canastitas de champiñones, cebolla, tomates secos y queso acompañadas de chips de batatas.
+:tres: Ensalada mixta - Tomates, lechuga, zanahoria, rúcula
+:cuatro: Ensalada de palmitos - Lechuga, rúcula, huevo, tomate, palmitos, salsa golf
+:cinco: Ensalada caesar - Rucula, lechuga, croutons, pollos, queso sardo, aderezo caesar
+:seis: Ensalada capitano - Rúcula, lechuga, zanahoria, choclo, palta, tomates, queso sardo.
+
+
+   {"fabricacion": "Medano",
+        "comida": [
+            {   "principal": "milanesa de pollo ",
+                "guarnicion": [ 
+                    "papas baston",
+                    "ensalada",
+                    "puré de calabazas",
+                    "puré de papas",
+                    "papas a la crema"
+                ]
+            },
+            {   "principal": "Hamburguesa de pollo",
+                "guarnicion": [ 
+                    "papas baston",
+                    "ensalada",
+                    "puré de calabazas",
+                    "puré de papas",
+                    "papas a la crema"
+                ]
+            },
+            {   "principal": "Suprema",
+                "guarnicion": [ 
+                    "papas baston",
+                    "ensalada",
+                    "puré de calabazas",
+                    "puré de papas",
+                    "papas a la crema"
+                ]
+            },
+            {   "principal": "Albóndigas",
+                "guarnicion": [ 
+                    "papas baston",
+                    "ensalada",
+                    "puré de calabazas",
+                    "puré de papas",
+                    "papas a la crema"
+                ]
+            },
+            {   "principal": "Omelette de jamón y queso",
+                "guarnicion": [ 
+                    "papas baston",
+                    "ensalada",
+                    "puré de calabazas",
+                    "puré de papas",
+                    "papas a la crema"
+                ]
+            },
+            {   "principal": "Revuelto Gramajo",
+                "guarnicion": {}
+            },
+            {   "principal": "Ensalada completa",
+                "guarnicion": {}
+            },
+            {   "principal": "Penne Rigatti",
+                "guarnicion": {}
+            },
+            {   "principal": "Carne al horno",
+                "guarnicion": [ 
+                    "papas baston",
+                    "ensalada",
+                    "puré de calabazas",
+                    "puré de papas",
+                    "papas a la crema"
+                ]
+            }                                          
+        ]
+    },
+    {   "fabricacion": "Capitano",
+        "comida": [
+        {   "principal": "Tradicional",
+            "guarnicion": ["Tarta de merluza con ensalada mixta"] 
+        },
+        {   "principal": "Liviano",
+            "guarnicion": [ 
+                "Canastitas de champiñones, cebolla, tomates secos y queso acompañadas de chips de batatas"
+            ]
+        },
+        {   "principal": "Ensalada mixta",
+            "guarnicion": ["Tomates, lechuga, zanahoria, rúcula"] 
+        },
+        {   "principal": "Ensalada de palmitos",
+            "guarnicion": ["Lechuga, rúcula, huevo, tomate, palmitos, salsa golf"]
+        },
+        {   "principal": "Ensalada caesar",
+            "guarnicion": ["Rucula, lechuga, croutons, pollos, queso sardo, aderezo caesar"]
+        },
+        {   "principal": "Ensalada capitano",
+            "guarnicion": ["Rúcula, lechuga, zanahoria, choclo, palta, tomates, queso sardo"] 
+        }                                
+        ]
+    },
